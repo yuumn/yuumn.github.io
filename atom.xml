@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Smilepeacefully</title>
   
-  
+  <subtitle>不念过往，不畏将来</subtitle>
   <link href="https://yuumn.github.io/atom.xml" rel="self"/>
   
   <link href="https://yuumn.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://yuumn.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Smilepeacefully</name>
     
   </author>
   
